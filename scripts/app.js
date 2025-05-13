@@ -1,0 +1,1 @@
+// JS işlevleri buraya gelecek
